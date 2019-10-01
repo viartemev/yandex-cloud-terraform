@@ -1,0 +1,7 @@
+#Yandex
+key.json
+
+#Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
